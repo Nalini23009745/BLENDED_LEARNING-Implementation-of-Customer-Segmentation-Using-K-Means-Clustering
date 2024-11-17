@@ -71,6 +71,7 @@ plt.title('Customer Segmentation using K-Means Clustering')
 plt.xlabel('Annual Income (k$)')  
 plt.ylabel('Spending Score (1-100)')  
 plt.show()
+```
 
 ## Output:
 ![image](https://github.com/user-attachments/assets/a32b31f6-899f-4c9b-a648-c6e3168d606d)
